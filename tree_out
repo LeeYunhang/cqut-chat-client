@@ -1,0 +1,33 @@
+/home/mrcode/Desktop/work/code/my-project/cqut-chat-client
+|-- README.md
+|-- assets
+|  |-- font-awesome.min.css
+|  `-- logo.png
+|-- build
+|  |-- build.js
+|  |-- check-versions.js
+|  |-- dev-client.js
+|  |-- dev-server.js
+|  |-- utils.js
+|  |-- webpack.base.conf.js
+|  |-- webpack.dev.conf.js
+|  `-- webpack.prod.conf.js
+|-- config
+|  |-- dev.env.js
+|  |-- index.js
+|  |-- prod.env.js
+|  `-- test.env.js
+|-- index.html
+|-- package.json
+|-- src
+|  |-- assets
+|  |-- components
+|  |-- main.js
+|  `-- routes
+|-- static
+|-- test
+|  |-- e2e
+|  `-- unit
+`-- tree_out
+
+directory: 827 file: 19 
